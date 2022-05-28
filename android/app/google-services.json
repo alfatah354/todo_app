@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174877456871",
+    "project_id": "tugas2-7a358",
+    "storage_bucket": "tugas2-7a358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174877456871:android:4fa0ac8fb37437eea92542",
+        "android_client_info": {
+          "package_name": "com.projek.ananta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174877456871-pvajgavlnf7s7u1n0dpfs6p6gakur2nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHysJws_a8qleQ89y9VtM7bHzEaFrO1VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174877456871-pvajgavlnf7s7u1n0dpfs6p6gakur2nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
